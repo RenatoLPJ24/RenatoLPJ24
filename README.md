@@ -5,7 +5,7 @@
 🚀 Buscando oportunidades para crescer profissionalmente e aplicar o que venho aprendendo
 
 ### 🛠️ Tecnologias e Ferramentas
-- Python (básico/intermediário)
+- Python (Intermediário)
 - Pandas, NumPy
 - Git & GitHub
 - SQL (em progresso)
