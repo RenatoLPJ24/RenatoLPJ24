@@ -14,3 +14,6 @@
 ### 📫 Contato
 ![Linkedin](https://img.shields.io/badge/https://www.linkedin.com/in/renatoprestes/.svg?style=for-the-badge&logo=Linkedin&logoColor=blue)
 
+### GitHub Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compacte.gdark)
