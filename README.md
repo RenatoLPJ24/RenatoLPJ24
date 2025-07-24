@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Renato 
+🎓 Estudante de Economia na UERJ  
+💻 Em transição de carreira para a área de dados e programação  
+📊 Atualmente estudando Python, SQL e análise de dados pela EBAC  
+🚀 Buscando oportunidades para crescer profissionalmente e aplicar o que venho aprendendo
 
-<!--
-**RenatoLPJ24/RenatoLPJ24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tecnologias e Ferramentas
+- Python (básico/intermediário)
+- Pandas, NumPy
+- Git & GitHub
+- SQL (em progresso)
 
-Here are some ideas to get you started:
+### 📚 Atualmente aprendendo
+- Web scraping, automações e análise de dados
+- Visualização de dados com matplotlib / seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- Email: renato.prestesws@gmail.com
+- [Instagram] (https://www.instagram.com/renatoprestess/)
 -->
