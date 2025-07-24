@@ -18,4 +18,4 @@
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil)
 - Email: renato.prestesws@gmail.com
 - [Instagram](https://www.instagram.com/renatoprestess/)
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
