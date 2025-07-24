@@ -11,8 +11,8 @@
 - Web scraping, automações e análise de dados
 - Visualização de dados com matplotlib / seaborn
 
-### 📫 Contato
-![Linkedin](https://img.shields.io/badge/https://www.linkedin.com/in/renatoprestes/.svg?style=for-the-badge&logo=Linkedin&logoColor=blue)
+### 🌐 Socials:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/renatoprestes/)
 
 ### GitHub Stats:
 
