@@ -1,8 +1,8 @@
 ## Hi, I'm Renato 
 
-• 🎓 Economics | 💻 Tech lover | 📊 Data analysis in progress | Sharing projects and progress
+• 🎓 Economics | 📊 Data analysis in progress | Sharing projects and progress
 
-I’m an Economics student and passionate about technology. I intend to work with data analysis in the future, and I’ll be sharing some of my projects and progress in the tech field. Once I complete my data analysis course, I hope to put my knowledge into practice. 
+I’m a student of economics and data analysis. I intend to work with data analysis in the future, and I’ll be sharing some of my projects and progress in the tech field. Once I complete my data analysis course, I hope to put my knowledge into practice. 
 
 
 ### 🖥️ Tech Stack
